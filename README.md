@@ -1,2 +1,3 @@
-# react-hocs
-Some useful HOCs that I'll create over time
+# React HOCs
+
+This repo will contain some useful HOCs that I'll create over time...
